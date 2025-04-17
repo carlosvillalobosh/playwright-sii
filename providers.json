@@ -1,0 +1,37 @@
+[
+  {
+    "row_number": 34,
+    "company_id": 20401,
+    "rut": "19732138-5",
+    "pass": "26321081L",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 91,
+    "company_id": 140868,
+    "rut": "19307441-3",
+    "pass": "esprivada1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 109,
+    "company_id": 310195,
+    "rut": "14716942-6",
+    "pass": "JALS426",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 167,
+    "company_id": 2014,
+    "rut": "16301211-1",
+    "pass": "segura16",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 250,
+    "company_id": 23730,
+    "rut": "9079459-0",
+    "pass": "Yoyi4747",
+    "status": "pendiente"
+  }
+]

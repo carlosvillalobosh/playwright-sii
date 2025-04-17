@@ -1,0 +1,1234 @@
+[
+  {
+    "row_number": 2,
+    "company_id": 8828,
+    "rut": "18187836-3",
+    "pass": 1010,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 3,
+    "company_id": 257778,
+    "rut": "17764236-3",
+    "pass": 1234,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 4,
+    "company_id": 281236,
+    "rut": "15339602-7",
+    "pass": 1426,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 5,
+    "company_id": 931,
+    "rut": "14437971-3",
+    "pass": 1936,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 6,
+    "company_id": 222384,
+    "rut": "7500769-8",
+    "pass": 1954,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 7,
+    "company_id": 310312,
+    "rut": "14259499-4",
+    "pass": 1974,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 8,
+    "company_id": 117341,
+    "rut": "14472119-5",
+    "pass": 2280,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 9,
+    "company_id": 185573,
+    "rut": "15878210-3",
+    "pass": 2510,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 10,
+    "company_id": 304885,
+    "rut": "15627481-K",
+    "pass": 2626,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 11,
+    "company_id": 310312,
+    "rut": "14531579-4",
+    "pass": 2680,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 12,
+    "company_id": 183012,
+    "rut": "17434105-2",
+    "pass": 3060,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 13,
+    "company_id": 254244,
+    "rut": "15013444-7",
+    "pass": 3148,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 14,
+    "company_id": 279234,
+    "rut": "26061243-3",
+    "pass": 3542,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 15,
+    "company_id": 160936,
+    "rut": "17451736-3",
+    "pass": 7510,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 16,
+    "company_id": 129144,
+    "rut": "24171808-5",
+    "pass": 102938,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 18,
+    "company_id": 265066,
+    "rut": "15376976-1",
+    "pass": 140208,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 20,
+    "company_id": 189091,
+    "rut": "18692820-2",
+    "pass": 3219262,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 21,
+    "company_id": 72255,
+    "rut": "20003938-6",
+    "pass": 20003938,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 22,
+    "company_id": 285691,
+    "rut": "25400192-9",
+    "pass": 20755978,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 23,
+    "company_id": 1314,
+    "rut": "19656765-8",
+    "pass": 27062706,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 24,
+    "company_id": 189627,
+    "rut": "9215797-0",
+    "pass": 92157970,
+    "status": "pendiente"
+  },
+  {
+    "row_number": 25,
+    "company_id": 195491,
+    "rut": "19487428-6",
+    "pass": "123Judith",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 26,
+    "company_id": 145923,
+    "rut": "18328805-9",
+    "pass": "15Febrero",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 27,
+    "company_id": 206531,
+    "rut": "17265303-0",
+    "pass": "17opazo",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 28,
+    "company_id": 190243,
+    "rut": "10340874-1",
+    "pass": "1ABC",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 29,
+    "company_id": 8828,
+    "rut": "20401202-4",
+    "pass": "20401ALEX",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 30,
+    "company_id": 310312,
+    "rut": "21039871-6",
+    "pass": "2173Tom#",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 31,
+    "company_id": 8828,
+    "rut": "19566313-0",
+    "pass": "2311Rafa.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 32,
+    "company_id": 363047,
+    "rut": "23845746-7",
+    "pass": "25carmenza",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 33,
+    "company_id": 20085,
+    "rut": "17176891-8",
+    "pass": "2604SanRos",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 34,
+    "company_id": 20401,
+    "rut": "19732138-5",
+    "pass": "26321081L",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 35,
+    "company_id": 164624,
+    "rut": "18311113-2",
+    "pass": "31/08/92",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 36,
+    "company_id": 19504,
+    "rut": "16878930-0",
+    "pass": "3517vpaz",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 37,
+    "company_id": 335002,
+    "rut": "26643556-8",
+    "pass": "475728Azoc",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 38,
+    "company_id": 160197,
+    "rut": "7034625-7",
+    "pass": "703gcf25",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 39,
+    "company_id": 1314,
+    "rut": "19026243-K",
+    "pass": "90853241Sii",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 40,
+    "company_id": 187120,
+    "rut": "17128896-7",
+    "pass": "ABC2291abc",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 41,
+    "company_id": 182469,
+    "rut": "17317976-6",
+    "pass": "Abunda24@",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 43,
+    "company_id": 1314,
+    "rut": "8040564-2",
+    "pass": "Agosto12.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 45,
+    "company_id": 164582,
+    "rut": "26678954-8",
+    "pass": "Albert2023",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 46,
+    "company_id": 333151,
+    "rut": "17474976-0",
+    "pass": "Aloha0910.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 47,
+    "company_id": 313776,
+    "rut": "16089724-4",
+    "pass": "Amorymedi2",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 48,
+    "company_id": 8828,
+    "rut": "26147799-8",
+    "pass": "andres2198",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 49,
+    "company_id": 310312,
+    "rut": "21840500-2",
+    "pass": "Ant0n1@05",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 50,
+    "company_id": 264341,
+    "rut": "13358141-3",
+    "pass": "Antay2025+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 51,
+    "company_id": 312912,
+    "rut": "25648233-9",
+    "pass": "Aranza90a.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 52,
+    "company_id": 310312,
+    "rut": "17967938-8",
+    "pass": "Aravena12#",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 53,
+    "company_id": 210593,
+    "rut": "18985433-1",
+    "pass": "Arki2023",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 54,
+    "company_id": 188385,
+    "rut": "17576125-K",
+    "pass": "BAILEY01",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 55,
+    "company_id": 324205,
+    "rut": "25629267-K",
+    "pass": "Bella25.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 56,
+    "company_id": 112264,
+    "rut": "26809004-5",
+    "pass": "Bella332",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 58,
+    "company_id": 316995,
+    "rut": "10932662-3",
+    "pass": "bender",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 59,
+    "company_id": 200394,
+    "rut": "13954948-1",
+    "pass": "Bianlu07##",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 60,
+    "company_id": 110372,
+    "rut": "17603608-7",
+    "pass": "Blanco81",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 61,
+    "company_id": 260522,
+    "rut": "18348918-6",
+    "pass": "Bruno2019@",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 62,
+    "company_id": 338864,
+    "rut": "17404543-7",
+    "pass": "cala1201",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 63,
+    "company_id": 230032,
+    "rut": "19128651-0",
+    "pass": "Cami241095",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 64,
+    "company_id": 2403,
+    "rut": "16629478-9",
+    "pass": "Camilo168+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 66,
+    "company_id": 155902,
+    "rut": "25987137-9",
+    "pass": "Carmela25",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 67,
+    "company_id": 305897,
+    "rut": "13315424-8",
+    "pass": "Caro1977",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 69,
+    "company_id": 8828,
+    "rut": "20052996-0",
+    "pass": "Carolina23",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 70,
+    "company_id": 175598,
+    "rut": "15662695-3",
+    "pass": "Casa2023.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 71,
+    "company_id": 28124,
+    "rut": "17269143-9",
+    "pass": "Cavs1989",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 72,
+    "company_id": 233466,
+    "rut": "12473741-9",
+    "pass": "Cesar1973",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 73,
+    "company_id": 230150,
+    "rut": "19441691-1",
+    "pass": "champince",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 74,
+    "company_id": 168030,
+    "rut": "15940294-0",
+    "pass": "cinco530",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 75,
+    "company_id": 288596,
+    "rut": "9616607-9",
+    "pass": "clara1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 76,
+    "company_id": 319510,
+    "rut": "19039728-9",
+    "pass": "Clavesii12",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 77,
+    "company_id": 23730,
+    "rut": "18106181-2",
+    "pass": "Conce.2014",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 79,
+    "company_id": 154310,
+    "rut": "16822322-6",
+    "pass": "CONTADOR7",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 80,
+    "company_id": 306682,
+    "rut": "25658784-K",
+    "pass": "cordova070",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 81,
+    "company_id": 150371,
+    "rut": "15385415-7",
+    "pass": "Correa31+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 82,
+    "company_id": 221210,
+    "rut": "17777964-4",
+    "pass": "Ctse5445",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 83,
+    "company_id": 203920,
+    "rut": "25446398-1",
+    "pass": "d29546728",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 84,
+    "company_id": 310312,
+    "rut": "13373732-4",
+    "pass": "daal",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 85,
+    "company_id": 148367,
+    "rut": "20668221-3",
+    "pass": "David7790",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 86,
+    "company_id": 316393,
+    "rut": "12117531-2",
+    "pass": "doctor",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 87,
+    "company_id": 147107,
+    "rut": "16014294-4",
+    "pass": "dori2011",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 88,
+    "company_id": 76552,
+    "rut": "19515776-6",
+    "pass": "E$tefan231",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 89,
+    "company_id": 40707,
+    "rut": "13949807-0",
+    "pass": "Elplomo10@",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 90,
+    "company_id": 291669,
+    "rut": "15064581-6",
+    "pass": "Elsendero1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 91,
+    "company_id": 140868,
+    "rut": "19307441-3",
+    "pass": "esprivada1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 92,
+    "company_id": 272857,
+    "rut": "16466085-0",
+    "pass": "Felipe.198",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 93,
+    "company_id": 189441,
+    "rut": "15956685-4",
+    "pass": "fitopaez",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 94,
+    "company_id": 205441,
+    "rut": "18084682-4",
+    "pass": "FNano1808",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 95,
+    "company_id": 185021,
+    "rut": "15036120-6",
+    "pass": "ftr292669",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 96,
+    "company_id": 327287,
+    "rut": "78075084-7",
+    "pass": "G00dF3LL4$",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 97,
+    "company_id": 263233,
+    "rut": "8199746-2",
+    "pass": "Gazul2301",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 98,
+    "company_id": 177055,
+    "rut": "15819282-9",
+    "pass": "German250484$",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 99,
+    "company_id": 162164,
+    "rut": "26202330-3",
+    "pass": "gigi2018",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 100,
+    "company_id": 151255,
+    "rut": "19830375-5",
+    "pass": "Glowx2024*",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 101,
+    "company_id": 189142,
+    "rut": "13857829-1",
+    "pass": "gmsb7780",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 102,
+    "company_id": 310382,
+    "rut": "19699377-0",
+    "pass": "Gwynn999.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 103,
+    "company_id": 38055,
+    "rut": "16960067-8",
+    "pass": "gygdo7Wej",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 104,
+    "company_id": 1314,
+    "rut": "26495121-6",
+    "pass": "Hola*1256",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 105,
+    "company_id": 310312,
+    "rut": "13771534-1",
+    "pass": "IGNACIO",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 106,
+    "company_id": 8828,
+    "rut": "16622552-3",
+    "pass": "Israel1662",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 107,
+    "company_id": 234902,
+    "rut": "15070631-9",
+    "pass": "iwlEyXdap6",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 108,
+    "company_id": 208607,
+    "rut": "17651200-8",
+    "pass": "Jabarca2024",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 109,
+    "company_id": 310195,
+    "rut": "14716942-6",
+    "pass": "JALS426",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 110,
+    "company_id": 201432,
+    "rut": "13894843-9",
+    "pass": "Jfa281802",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 111,
+    "company_id": 71253,
+    "rut": "7776266-3",
+    "pass": "JIAR2125",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 112,
+    "company_id": 158753,
+    "rut": "17745683-7",
+    "pass": "jmpa2609",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 113,
+    "company_id": 222924,
+    "rut": "16268220-2",
+    "pass": "jonas4525",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 114,
+    "company_id": 320077,
+    "rut": "17714392-8",
+    "pass": "Jorge.90",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 115,
+    "company_id": 196049,
+    "rut": "25252336-7",
+    "pass": "Josue1014",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 116,
+    "company_id": 173982,
+    "rut": "14605867-1",
+    "pass": "jpbazzapro",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 117,
+    "company_id": 195586,
+    "rut": "25983984-K",
+    "pass": "JuanE2024",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 118,
+    "company_id": 189319,
+    "rut": "15551156-7",
+    "pass": "julieta2016",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 119,
+    "company_id": 20401,
+    "rut": "26846068-3",
+    "pass": "KATYNAVA23",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 120,
+    "company_id": 162222,
+    "rut": "16838179-4",
+    "pass": "Kinesico10",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 121,
+    "company_id": 157853,
+    "rut": "16888264-5",
+    "pass": "Kipass10",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 122,
+    "company_id": 201513,
+    "rut": "16019090-6",
+    "pass": "ksnfamilia",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 123,
+    "company_id": 196049,
+    "rut": "27961834-3",
+    "pass": "LAMOCHA123",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 124,
+    "company_id": 195586,
+    "rut": "26054855-7",
+    "pass": "Linateamo1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 126,
+    "company_id": 185208,
+    "rut": "26830414-2",
+    "pass": "Lu310319%",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 127,
+    "company_id": 8828,
+    "rut": "18947138-6",
+    "pass": "Luis5819",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 128,
+    "company_id": 180131,
+    "rut": "26103252-K",
+    "pass": "Mama2020.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 129,
+    "company_id": 186812,
+    "rut": "15541385-9",
+    "pass": "Marce321",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 130,
+    "company_id": 20401,
+    "rut": "27152149-9",
+    "pass": "mariana011",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 131,
+    "company_id": 199265,
+    "rut": "10285164-1",
+    "pass": "martini1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 132,
+    "company_id": 136771,
+    "rut": "16747209-5",
+    "pass": "Matheo123",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 133,
+    "company_id": 172446,
+    "rut": "15071312-9",
+    "pass": "matiisi2",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 134,
+    "company_id": 1314,
+    "rut": "19885054-3",
+    "pass": "MBOH2798",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 135,
+    "company_id": 156439,
+    "rut": "16563505-1",
+    "pass": "MIL221286",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 136,
+    "company_id": 1314,
+    "rut": "19215829-K",
+    "pass": "Milanesa22",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 137,
+    "company_id": 169208,
+    "rut": "18355711-4",
+    "pass": "Millon11",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 138,
+    "company_id": 329129,
+    "rut": "17614519-6",
+    "pass": "minimode8",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 139,
+    "company_id": 23445,
+    "rut": "18591364-3",
+    "pass": "Mulan@1117",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 140,
+    "company_id": 253519,
+    "rut": "15837296-7",
+    "pass": "Newen2024@",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 141,
+    "company_id": 185629,
+    "rut": "17377475-3",
+    "pass": "Nicole1990",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 142,
+    "company_id": 1608,
+    "rut": "17651917-7",
+    "pass": "Nora26Sii",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 143,
+    "company_id": 2403,
+    "rut": "16072559-1",
+    "pass": "nznesi06",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 144,
+    "company_id": 7289,
+    "rut": "7616340-5",
+    "pass": "Orange10.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 177,
+    "company_id": 152982,
+    "rut": "15776844-1",
+    "pass": "unxC76ctT+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 145,
+    "company_id": 256178,
+    "rut": "15912127-5",
+    "pass": "Paes15@685",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 147,
+    "company_id": 161984,
+    "rut": "18126640-6",
+    "pass": "Palta7321",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 148,
+    "company_id": 226037,
+    "rut": "23181150-8",
+    "pass": "Paty2012",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 149,
+    "company_id": 233639,
+    "rut": "14136539-8",
+    "pass": "patygonva81",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 150,
+    "company_id": 1314,
+    "rut": "17988401-1",
+    "pass": "paul1991",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 151,
+    "company_id": 196056,
+    "rut": "13518133-1",
+    "pass": "PAUL8133",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 152,
+    "company_id": 202075,
+    "rut": "16765069-4",
+    "pass": "pavilion",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 153,
+    "company_id": 171521,
+    "rut": "7621568-5",
+    "pass": "pedro568",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 154,
+    "company_id": 127234,
+    "rut": "17270619-3",
+    "pass": "pitilinda",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 155,
+    "company_id": 172612,
+    "rut": "13656559-1",
+    "pass": "Placar1030",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 156,
+    "company_id": 311688,
+    "rut": "18328165-8",
+    "pass": "pregunta1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 157,
+    "company_id": 156777,
+    "rut": "15379119-8",
+    "pass": "psicologia",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 158,
+    "company_id": 207576,
+    "rut": "13270538-0",
+    "pass": "px-1327",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 159,
+    "company_id": 106789,
+    "rut": "26493342-0",
+    "pass": "Rai2024.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 160,
+    "company_id": 180755,
+    "rut": "18537702-4",
+    "pass": "Rengo1959",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 161,
+    "company_id": 98807,
+    "rut": "18388810-2",
+    "pass": "Saldivia22",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 162,
+    "company_id": 198979,
+    "rut": "24653829-8",
+    "pass": "Salon@7669",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 163,
+    "company_id": 8828,
+    "rut": "18165588-7",
+    "pass": "Salva2810R",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 164,
+    "company_id": 8828,
+    "rut": "19003075-K",
+    "pass": "Sama2117*",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 165,
+    "company_id": 196527,
+    "rut": "18164636-5",
+    "pass": "sarb1992",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 166,
+    "company_id": 233429,
+    "rut": "16652142-4",
+    "pass": "Sarc1554**",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 167,
+    "company_id": 2014,
+    "rut": "16301211-1",
+    "pass": "segura16",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 177,
+    "company_id": 152982,
+    "rut": "15776844-1",
+    "pass": "unxC76ctT+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 168,
+    "company_id": 355681,
+    "rut": "26567995-1",
+    "pass": "Sequera195",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 169,
+    "company_id": 71302,
+    "rut": "15869397-6",
+    "pass": "Simona3958",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 170,
+    "company_id": 23730,
+    "rut": "26519354-4",
+    "pass": "Skychile@1",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 172,
+    "company_id": 194480,
+    "rut": "17697448-6",
+    "pass": "ssii1884",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 173,
+    "company_id": 1314,
+    "rut": "26560556-7",
+    "pass": "Suarez7.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 174,
+    "company_id": 261009,
+    "rut": "16967261-K",
+    "pass": "Svs212429",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 175,
+    "company_id": 76552,
+    "rut": "18037644-5",
+    "pass": "Trinidad2*",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 176,
+    "company_id": 80236,
+    "rut": "8516990-4",
+    "pass": "udd2010a",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 177,
+    "company_id": 152982,
+    "rut": "15776844-1",
+    "pass": "unxC76ctT+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 241,
+    "company_id": 203659,
+    "rut": "27719130-K",
+    "pass": "V250304m*",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 242,
+    "company_id": 190966,
+    "rut": "17864663-K",
+    "pass": "va663kez",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 243,
+    "company_id": 1314,
+    "rut": "19310010-4",
+    "pass": "Vaco_0388",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 244,
+    "company_id": 6012,
+    "rut": "14438082-7",
+    "pass": "vania21",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 245,
+    "company_id": 4491,
+    "rut": "17831079-8",
+    "pass": "Vicky2024+",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 247,
+    "company_id": 91930,
+    "rut": "25406211-1",
+    "pass": "Wluna_0307",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 248,
+    "company_id": 316639,
+    "rut": "19864381-5",
+    "pass": "Wszpal98",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 249,
+    "company_id": 76552,
+    "rut": "20376126-0",
+    "pass": "Yohan2037.",
+    "status": "pendiente"
+  },
+  {
+    "row_number": 250,
+    "company_id": 23730,
+    "rut": "9079459-0",
+    "pass": "Yoyi4747",
+    "status": "pendiente"
+  }
+]
